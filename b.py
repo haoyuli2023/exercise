@@ -1,3 +1,3 @@
-#file b
-a=10
-print(a*10)
+a=3
+b=4*a
+print(b)
